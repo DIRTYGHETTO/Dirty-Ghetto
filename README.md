@@ -8,6 +8,7 @@ mi-portafolio/
 │   └── script.js
 └── images/
     └── (tu imagen de portafolio)
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
